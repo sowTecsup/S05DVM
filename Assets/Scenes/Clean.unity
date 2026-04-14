@@ -2980,7 +2980,7 @@ MonoBehaviour:
   moveSpeed: 5
   rotationSpeed: 10
   verticalVelocity: 0
-  jumpForce: 10
+  jumpForce: 4
   pushForce: 4
   dashForce: 30
   dashDuration: 0.2
